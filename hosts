@@ -1,0 +1,34 @@
+# =============== 90 DNS ===============
+# Block Nintendo telemetry and updates.
+# ======================================
+
+0.0.0.0 ctest.cdn.nintendo.net
+0.0.0.0 conntest.nintendowifi.net
+0.0.0.0 nintendo.com
+0.0.0.0 nintendo.co.uk
+0.0.0.0 nintendo-europe.com
+0.0.0.0 nintendo.jp
+0.0.0.0 nintendo.co.jp
+0.0.0.0 nintendo.es
+0.0.0.0 nintendo.co.kr
+0.0.0.0 nintendo.tw
+0.0.0.0 nintendo.com.hk
+0.0.0.0 nintendo.com.au
+0.0.0.0 nintendo.co.nz
+0.0.0.0 nintendo.at
+0.0.0.0 nintendo.be
+0.0.0.0 nintendods.cz
+0.0.0.0 nintendo.dk
+0.0.0.0 nintendo.de
+0.0.0.0 nintendo.fi
+0.0.0.0 nintendo.fr
+0.0.0.0 nintendo.gr
+0.0.0.0 nintendo.hu
+0.0.0.0 nintendo.it
+0.0.0.0 nintendo.nl
+0.0.0.0 nintendo.no
+0.0.0.0 nintendo.pt
+0.0.0.0 nintendo.ru
+0.0.0.0 nintendo.co.za 
+0.0.0.0 nintendo.se
+0.0.0.0 nintendo.ch 
